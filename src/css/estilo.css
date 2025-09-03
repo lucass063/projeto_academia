@@ -14,7 +14,7 @@ html {
     font-size: 62.5%;
     color: white;
     font-family: 'Lato', sans-serif;
-
+    overflow: hiden;
 }
 
 body {
@@ -24,13 +24,13 @@ body {
     background-position-y: 0px;
     background-repeat: no-repeat;
 }
-
+                                                                                    
 /* menu header navbar*/
 header {
     width: 100%;
     height: 7vh;
     background-color: rgba(22, 22, 22, 0.2);
-}
+}                                        
 
 .menu-content {
     text-transform: uppercase;
@@ -149,4 +149,5 @@ main {
 
 .btn button:hover::before {
     width: 100%;
+
 }
