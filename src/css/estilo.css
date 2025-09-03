@@ -14,7 +14,7 @@ html {
     font-size: 62.5%;
     color: white;
     font-family: 'Lato', sans-serif;
-    overflow: hiden;
+    overflow-x: hidden;
 }
 
 body {
@@ -151,3 +151,4 @@ main {
     width: 100%;
 
 }
+
